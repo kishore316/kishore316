@@ -1,50 +1,40 @@
 # Hi, I’m Kishore Karuturi
 
+
 ### Cybersecurity · Security automation · Practical engineering
+
 
 I’m a curious, hands-on learner who likes understanding how systems work, where they fail, and how to make them more secure. I learn by building, testing ideas, and working through problems with other people.
 
+
 [Portfolio](https://kishore-portifolio.ai.studio/) · [LinkedIn](https://www.linkedin.com/in/kishore-karuturi/) · [Work with me on Upwork](https://www.upwork.com/freelancers/~01e02145a61151567b)
+
 
 ---
 
+
 ## Focus
+
 
 - **Offensive security:** penetration testing, vulnerability assessment and network security.
 - **Defensive security:** traffic analysis, incident response and vulnerability management.
 - **Automation:** Python and Bash for repeatable security tasks and clear reporting.
-- **Engineering mindset:** practical experiments, careful documentation and continuous learning.
+- **Engineering mindset:** practical experiments, careful documentation and continuous learning## Selected projects
 
-## Selected projects
+### [Blueline-AI](https://github.com/kishore316/blueline-ai)
 
-| Project | What I contributed to | Context |
-| --- | --- | --- |
-| **Blueline-AI** | An AI-powered cybersecurity assistant exploring threat detection, vulnerability scanning and security reporting. | Team Kernel Panic · AIH’26 |
-| **Cyberworld** | A model prototype selected in our college’s internal Smart India Hackathon. | Collaborative student project · NIT Srinagar |
+A collaborative cybersecurity assistant prototype for small teams, demonstrating plain-language guidance, threat feeds and vulnerability prioritization.
 
-Explore my [portfolio](https://kishore-portifolio.ai.studio/) for project details and my learning journey.
+[Live demo](https://ai-security-prototype-iitjammu-hack.vercel.app/) · [My project fork](https://github.com/kishore316/blueline-ai) · [Original team source](https://github.com/AggarwalKashvi/AI-security-prototype)
 
-## Toolkit
+**Context:** SS26 AI-First Hackathon · Team Kernal Panic. The current frontend demonstrates simulated security workflows.
 
-**Languages:** Python · Bash · C · C++  
-**Security tools:** Nmap · Wireshark · OpenVAS / Greenbone · Metasploit · OWASP ZAP  
-**Environment:** Linux · Kali Linux · Git · GitHub
+### [Cyber World Model](https://github.com/kishore316/cyber-world-model)
 
-## Background
+A predictive cyber-defence research prototype exploring temporal network states, attack progression and explainability. Selected in NIT Srinagar’s internal Smart India Hackathon.
 
-- B.Tech in Electrical Engineering, **NIT Srinagar** (2024–2028).
-- **Cybersecurity Freelancer** on Upwork.
-- **Research Assistant Intern** at Canonsphere.
-- Cybersecurity training and internship experience with **IIT Jammu** and **InLighnX Global**.
-- Participated in **Cyber-Kushti 2026** with team **404 Found**.
+[Interactive demo](https://cyber-world-model-predictive-cyber-defence.ai.studio/) · [My project fork](https://github.com/kishore316/cyber-world-model) · [Original team source](https://github.com/punit-28/SIH-Project/)
 
-## Credentials
+**Status:** collaborative prototype. The source repository currently uses heuristic predictions; the separately hosted demo presents an embedded world-model workflow with synthetic data.
 
-- [IBM Cybersecurity Analyst Professional Certificate](https://coursera.org/verify/professional-cert/JDD7V26HXYBR)
-- [IBM Ethical Hacking with Open Source Tools](https://coursera.org/verify/professional-cert/PGXJURDYHQ8S)
-
-## Let’s connect
-
-I’m open to freelance cybersecurity projects, internships and research collaborations. I value clear communication, honest feedback and useful work.
-
-Reach me through [LinkedIn](https://www.linkedin.com/in/kishore-karuturi/) or [Upwork](https://www.upwork.com/freelancers/~01e02145a61151567b).
+.
